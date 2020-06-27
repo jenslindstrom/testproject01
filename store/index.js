@@ -17,6 +17,8 @@ export const mutations = {
 actions is where we will make an API call that gathers the posts,
 and then commits the mutation to update it
 */
+
+/*
 export const actions = {
     async getPosts({ state, commit }) {
       if (state.posts.length) return
@@ -40,3 +42,4 @@ export const actions = {
       }
    }
 }
+*/
